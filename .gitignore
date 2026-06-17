@@ -1,0 +1,5 @@
+docs
+.idea
+.venv
+DB
+pdf_generator.egg-info
